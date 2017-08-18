@@ -1,0 +1,7 @@
+1. Co to jquery i do czego je stosujemy?
+2. Poruszanie sie po DOM
+3. Interakcja z elementami DOM
+4. Efekty/animacje
+5. Ajax
+6. Przydatne biblioteki/ciekawostki
+
